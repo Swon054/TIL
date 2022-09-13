@@ -24,7 +24,7 @@ What I learn today
   - `less` : txt 파일 내용을 나눠서 전체화면으로 불러와준다. a와 b키를 사용해서 앞, 뒤 페이지 이동가능. q키로 종료가능.
   - `mkdir` : make directory의 약자. 디렉토리 경로를 만들어주는 명령어.
   - `방향키` : 위로 누르면 바로 전에 썼던 명령어를 불러온다.
-  - `ctrl` + `A` or `E` : 현재 작성 중인 명령어의 앞(A) 또는 끝(E)으로 텍스트 커서를 이동시킨다. C는 현재 명령어 입력을 취소하고 줄바꿈한다.
+  - `ctrl` + `A` or `E` : 현재 작성 중인 명령어의 앞(A) 또는 끝(E)으로 텍스트 커서를 이동시킨다. `C`는 현재 명령어 입력을 취소하고 줄바꿈한다.
   - 참고 자료  [https://opentutorials.org/course/730/4561](https://www.git-tower.com/learn/git/ebook/en/command-line/appendix/command-line-101#:~:text=You%20can%20easily%20remember%20this,for%20%22change%20directory%22)
 #### vim 사용법
   - 명령 모드와 입력 모드
