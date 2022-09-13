@@ -25,7 +25,7 @@ What I learn today
   - `mkdir` : make directory의 약자. 디렉토리 경로를 만들어주는 명령어.
   - `방향키` : 위로 누르면 바로 전에 썼던 명령어를 불러온다.
   - `ctrl` + `A` or `E` : 현재 작성 중인 명령어의 앞(A) 또는 끝(E)으로 텍스트 커서를 이동시킨다. C는 현재 명령어 입력을 취소하고 줄바꿈한다.
-  - 참고 자료  [(https://opentutorials.org/course/730/4561)](https://www.git-tower.com/learn/git/ebook/en/command-line/appendix/command-line-101#:~:text=You%20can%20easily%20remember%20this,for%20%22change%20directory%22).)
+  - 참고 자료  [https://opentutorials.org/course/730/4561](https://www.git-tower.com/learn/git/ebook/en/command-line/appendix/command-line-101#:~:text=You%20can%20easily%20remember%20this,for%20%22change%20directory%22)
   #### vim 사용법
   - 명령 모드와 입력 모드
     - vim 에디터를 열 때 : 명령어 `vim`로 진입함
