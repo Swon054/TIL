@@ -58,3 +58,18 @@ What I learn today
 적용예: [Google](https://google.com, "google link")
 ```
 Link: [Google](https://google.com, "google link")
+
+
+#### 버전 관리 시스템과 git
+
+
+##### 버전 관리 시스템을 사용하는 이유
+
+
+##### 커밋
+
+- 커밋은 논리적 변경이 있을 때 만듦
+- 가능하면 커밋 크기가 작을수록 좋음
+
+##### 리포지토리
+- 정의 : 여러 파일을 하나로 모은 컬렉션
