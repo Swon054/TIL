@@ -40,4 +40,4 @@ What I learn today
       - 저장 시 `:w`
       - 종료 시 `:q`
       - 저장 종료 시 `:wq`
-    - 참고 자료 [링크](https://opentutorials.org/course/730/4561)
+    - 참고 자료 [(https://opentutorials.org/course/730/4561)](https://www.git-tower.com/learn/git/ebook/en/command-line/appendix/command-line-101#:~:text=You%20can%20easily%20remember%20this,for%20%22change%20directory%22).)
