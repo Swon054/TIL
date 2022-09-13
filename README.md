@@ -12,6 +12,7 @@ What I learn today
   - tab을 사용하는 경로 자동 완성
 -ls : list의 약자. 현재 작업 경로에 있는 파일이나 디렉터리를 출력해주는 명령어
   ex) ls, ls -a, ls -l, ls -al 와 같이 사용하면 됨.
+  
 -추가로 알고 있으면 좋은 것들
   - cat
   - touch
