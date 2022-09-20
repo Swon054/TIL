@@ -92,11 +92,11 @@ git log
 * 참고 : JIRA에서는 한 작업이 Epic, 하위 작업을 Task 이런 식으로 만들 수 있다.
 
 ##### 명령어 
-```
+
 1. 브랜치 목록 보기
 - `git branch`
 2. 브랜치 생성하기
 - `git branch` + `BranchName`
 3. 특정 브랜치로 이동하기
 - `git checkout` or `git switch`
-```
+
