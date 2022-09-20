@@ -80,5 +80,22 @@ git log
 * 해결 방법 : Github 클론을 갱신한 뒤, 다시 시도.
 * 22-09-20 2번째 오류 발생 : 이슈 번호 표시((#?)) 안됨
 * 해결 방법 : Github에서 먼저 이슈 생성 후 입력하면 됨.
+## 2022-09-20
+### 저장소 상태 파악하기
 
-## 2022-09-14
+#### 브랜치
+
+- 정의 : A branch in Git is simply a lightweight movable pointer to one of these commits
+- 브랜치는 특정한 목표를 가지고 코드를 수정할 때 주로 만듦.
+  - 이슈 하나당 브랜치 하나를 *주로 만듦.
+  - *사람마다 다르지만, 협업할 때는 무조건 만든다.
+* 참고 : JIRA에서는 한 작업이 Epic, 하위 작업을 Task 이런 식으로 만들 수 있다.
+
+##### 명령어 
+1. 브랜치 목록 보기
+- `git branch`
+2. 브랜치 생성하기
+- `git branch` + `fileName`
+3. 특정 브랜치로 이동하기
+- `git checkout` or `git switch`
+
