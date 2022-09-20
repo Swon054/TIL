@@ -99,4 +99,5 @@ git log
 - `git branch` + `BranchName`
 3. 특정 브랜치로 이동하기
 - `git checkout` or `git switch`
+* 참고 : 명령어 기반으로 하는 이유 : 모든 개발 환경이 같지 않기 때문에 공통으로 사용할 수 있는 명령어를 사용함.
 
