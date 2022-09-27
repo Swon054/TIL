@@ -101,7 +101,12 @@ git log
 - `git checkout` or `git switch`
 * 참고 : 명령어 기반으로 하는 이유 : 모든 개발 환경이 같지 않기 때문에 공통으로 사용할 수 있는 명령어를 사용함.
 
-4. 브랜치 생성과 체크아웃 동시에 하기
+4. 2개의 브랜치 생성 시 생긴 conflict 오류
+- fast-forward, None fast-forward : auto merge가 되지 않고, 3가지 선택지를 줌.
+- 검색해본 결과, 항상 생기는 오류인 듯 함.
+- 미해결
+
+5. 브랜치 생성과 체크아웃 동시에 하기
 ```
 git checkout -b + 브랜치명
 ```
