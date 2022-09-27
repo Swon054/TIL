@@ -119,7 +119,3 @@ git checkout -b + 브랜치명
 git merge + 브랜치명
 
 ```
-
-test123
-
--다른 pc에서 작성-
