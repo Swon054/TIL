@@ -119,3 +119,7 @@ git checkout -b + 브랜치명
 git merge + 브랜치명
 
 ```
+1. 홈페이지와 동기화
+```
+git pull origin main
+```
