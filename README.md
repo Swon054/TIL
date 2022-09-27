@@ -122,4 +122,8 @@ git merge + 브랜치명
 1. 홈페이지와 동기화
 ```
 git pull origin main
+* 오류발생 : 다른 PC에서 작업한 뒤 -> 홈페이지와 동기화되지 않은 상태로 작업 진행 
+            -> vscode에서 브랜치만 홈페이지에 저장 -> 홈페이지에서 메인과 브랜치 동기화
+             -> vscode에서 git bash에서 'git pull origin main' 작성 -> 동기화 저장안됨.
+
 ```
