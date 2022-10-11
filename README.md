@@ -127,9 +127,13 @@ git pull origin main
 
 ```
 
-## 2022-19-12
+## 2022-10-12
 ### 깃의 인증 방법
   - ID/PW 방식
   - 키 방식(공개키/개인키)
   - 토큰 방식(Personal Access Token)
   
+
+- 지금까지 배운 명령어 정리
+  - git commit, git branch, git checkout, git checkout -b, git merge, git pull
+  - [참고 사이트](https://violet-bora-lee.github.io/git-tutorial/#rebase)
