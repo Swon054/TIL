@@ -126,3 +126,10 @@ git pull origin main
              -> vscode에서 git bash에서 'git pull origin main' 작성 -> 동기화 저장안됨.
 
 ```
+
+## 2022-19-12
+### 깃의 인증 방법
+  - ID/PW 방식
+  - 키 방식(공개키/개인키)
+  - 토큰 방식(Personal Access Token)
+  
