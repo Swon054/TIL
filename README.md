@@ -141,3 +141,7 @@ git pull origin main
 ### git merge 방식
 1. 3-way
 2. fast-forward
+
+## git push 시 내부에서 일어나는 일
+- (현재 main 브랜치를 checkout하고 있는 상황에서)git push origin main을 하면, 로컬 저장소에 있는 main 브래치에 있는 모든 커밋이 원격저장소(origin)
+에 있는 main 브랜치로 병합이 되는데, 이 때 방식은 fast-forward이다.
