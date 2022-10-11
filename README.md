@@ -126,3 +126,8 @@ git pull origin main
              -> vscode에서 git bash에서 'git pull origin main' 작성 -> 동기화 저장안됨.
 
 ```
+
+## 2022-10-11
+- 지금까지 배운 명령어 정리
+  - git commit, git branch, git checkout, git checkout -b, git merge, git pull
+  - [참고 사이트](https://violet-bora-lee.github.io/git-tutorial/#rebase)
