@@ -143,5 +143,11 @@ git pull origin main
 2. fast-forward
 
 ## git push 시 내부에서 일어나는 일
-- (현재 main 브랜치를 checkout하고 있는 상황에서)git push origin main을 하면, 로컬 저장소에 있는 main 브래치에 있는 모든 커밋이 원격저장소(origin)
+- (현재 main 브랜치를 checkout하고 있는 상황에서)git push origin main을 하면, 로컬 저장소에 있는 main 브랜치에 있는 모든 커밋이 원격저장소(origin)
 에 있는 main 브랜치로 병합이 되는데, 이 때 방식은 fast-forward이다.
+
+## 커밋 메세지에 오타가 났을 때
+- 오타를 수정하기 위해서는 다음과 같은 명령어를 입력한 후, vim 기능을 이용해서 수정하도록 한다.
+```
+git commit -amend
+```
