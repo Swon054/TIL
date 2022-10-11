@@ -137,3 +137,7 @@ git pull origin main
 - 지금까지 배운 명령어 정리
   - git commit, git branch, git checkout, git checkout -b, git merge, git pull
   - [참고 사이트](https://violet-bora-lee.github.io/git-tutorial/#rebase)
+
+### git merge 방식
+1. 3-way
+2. fast-forward
