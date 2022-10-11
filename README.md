@@ -2,6 +2,16 @@
 What I learn today 
 >매일 배운 거 기록
 
+
+# 바로가기
+1. [리눅스 커맨드라인 기초](#리눅스-커맨드라인-기초)
+2. [vim 사용법](#vim-사용법)
+3. [마크다운 문법](#마크다운-문법)
+4. [버전 관리 시스템과 git](#버전-관리-시스템과-git)
+5. [리포지토리](#리포지토리)
+6. [브랜치](#브랜치)
+7. [Git 인증 방법](#깃의-인증-방법)
+8. [Git 명령어 추가 정리](#git명령어-추가-정리)
 ## 2022-09-13
 ### RPA 1기 웹 프로그래밍 기획과 기본
 #### 리눅스 커맨드라인 기초
@@ -138,6 +148,7 @@ git pull origin main
   - git commit, git branch, git checkout, git checkout -b, git merge, git pull
   - [참고 사이트](https://violet-bora-lee.github.io/git-tutorial/#rebase)
 
+## Git명령어 추가 정리
 ### git merge 방식
 1. 3-way
 2. fast-forward
